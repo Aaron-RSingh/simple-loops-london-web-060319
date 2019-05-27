@@ -29,6 +29,7 @@ def while_iterator(number_of_times)
   counter = 0 
   while counter < 8 
   counter += 1 
+  puts phrase
   
   
 end
